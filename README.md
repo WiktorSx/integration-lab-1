@@ -1,5 +1,5 @@
 # Laboratorium 1: Git, GitHub i przygotowanie środowiska Django
-**ciekawe laboratorium git**
+**Opanowanie systemu kontroli wersji Hit, platformy HitGub oraz przygotowanie lokalnego środowiska programistycznego dla wybranego frameworka (np. Django, React, itp.). Szczególny nacisk położono na poprawne dokumentowanie pracy przy użyciu Markdown oraz konfigurację bezpiecznego dostępu przez SSH**
 Wymagania projektu:
 * Konfiguracja środowiska i Markdown
 * Inicjalizacja projektu i Git
